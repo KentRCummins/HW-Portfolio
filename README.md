@@ -1,5 +1,1 @@
-# HW-Wireframe
 
-'git add.'
-'git commit -m "<COMMENT>"'
-'git push origin master'
