@@ -1,1 +1,23 @@
-Hello
+body{
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
+    font-size: 18px;
+
+}
+header{background-color: gray
+    
+}
+
+.container{ 
+    width: 960px;
+    margin: 0 auto; 
+
+}
+
+#article
+#h1
+#img
+#p{ float: left;
+    width: 650px;
+
+}
